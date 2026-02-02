@@ -34,7 +34,7 @@ export function Navigation() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="text-lg font-semibold text-foreground">
-            Dr. Sarah Chen
+            Jamie Michelle
           </a>
 
           {/* Desktop Navigation */}

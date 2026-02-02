@@ -8,7 +8,7 @@ export function Hero() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-4">
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-balance">Dr. Sarah Chen</h1>
+              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-balance">Jamie Michelle Gammel</h1>
               <p className="text-xl sm:text-2xl text-muted-foreground">Computer Engineering Professional</p>
               <div className="h-1 w-24 bg-primary rounded-full" />
             </div>
