@@ -59,7 +59,7 @@ export function Hero() {
           <div className="relative">
             <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
               <img
-                src="/professional-portrait-of-female-computer-engineer-.jpg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/AirBrush_20250907082243-6zr9LnxEQBJZwn0DsFV5UuAzdtnZPq.jpg"
                 alt="Dr. Sarah Chen"
                 className="rounded-2xl object-cover w-full h-full"
               />
