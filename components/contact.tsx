@@ -25,7 +25,7 @@ export function Contact() {
                       href="mailto:sarah.chen@example.com"
                       className="font-medium hover:text-primary transition-colors"
                     >
-                      sarah.chen@example.com
+                      nerdydirtyit@gmail.com
                     </a>
                   </div>
                 </div>
